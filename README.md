@@ -7,6 +7,7 @@ Blinkit aims to analyze its overall sales performance, customer satisfaction, an
 🧠 Objective
 
 To conduct a comprehensive analysis of Blinkit’s data using Power BI, focusing on KPIs such as Total Sales, Average Sales, Number of Items Sold, and Average Ratings.
+
 ⚙️ Work Done
 
 Imported and cleaned raw Blinkit dataset in Power BI

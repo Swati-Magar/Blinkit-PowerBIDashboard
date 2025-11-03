@@ -1,5 +1,6 @@
 # Blinkit-PowerBIDashboard
 Blinkit Sales Analysis Dashboard – Power BI
+
 📌 Problem Statement
 
 Blinkit aims to analyze its overall sales performance, customer satisfaction, and inventory distribution to identify key insights and opportunities for optimization. The goal was to visualize sales KPIs and business metrics to support data-driven decisions.
